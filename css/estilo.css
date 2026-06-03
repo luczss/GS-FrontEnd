@@ -799,5 +799,3 @@ body {
   .timeline__item::before       { left: -1.6rem; }
   .timeline__item--alert::before { left: -1.65rem; }
 }
-CSSEOF
-echo "done"
